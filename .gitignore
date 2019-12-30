@@ -1,0 +1,31 @@
+/triptogether-api/HELP.md
+/triptogether-api/target/
+!/triptogether-api/.mvn/wrapper/maven-wrapper.jar
+!/triptogether-api/**/src/main/**
+!/triptogether-api/**/src/test/**
+
+### STS ###
+/triptogether-api/.apt_generated
+/triptogether-api/.classpath
+/triptogether-api/.factorypath
+/triptogether-api/.project
+/triptogether-api/.settings
+/triptogether-api/.springBeans
+/triptogether-api/.sts4-cache
+
+### IntelliJ IDEA ###
+/triptogether-api/.idea
+/triptogether-api/*.iws
+/triptogether-api/*.iml
+/triptogether-api/*.ipr
+
+### NetBeans ###
+/triptogether-api/nbproject/private/
+/triptogether-api/nbbuild/
+/triptogether-api/dist/
+/triptogether-api/nbdist/
+/triptogether-api/.nb-gradle/
+/triptogether-api/build/
+
+### VS Code ###
+/triptogether-api/.vscode/
