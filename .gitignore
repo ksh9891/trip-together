@@ -29,3 +29,6 @@
 
 ### VS Code ###
 /triptogether-api/.vscode/
+
+### Node ###
+/triptogether-front/node_modules/
