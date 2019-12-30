@@ -30,5 +30,24 @@
 ### VS Code ###
 /triptogether-api/.vscode/
 
-### Node ###
-/triptogether-front/node_modules/
+# dependencies
+/triptogether-front/node_modules
+/triptogether-front/.pnp
+/triptogether-front/.pnp.js
+
+# testing
+/triptogether-front/coverage
+
+# production
+/triptogether-front/build
+
+# misc
+/triptogether-front/.DS_Store
+/triptogether-front/.env.local
+/triptogether-front/.env.development.local
+/triptogether-front/.env.test.local
+/triptogether-front/.env.production.local
+
+/triptogether-front/npm-debug.log*
+/triptogether-front/yarn-debug.log*
+/triptogether-front/yarn-error.log*
