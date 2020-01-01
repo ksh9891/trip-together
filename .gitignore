@@ -51,3 +51,5 @@
 /triptogether-front/npm-debug.log*
 /triptogether-front/yarn-debug.log*
 /triptogether-front/yarn-error.log*
+
+*.bak
